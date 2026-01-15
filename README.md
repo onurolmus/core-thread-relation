@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Çok Çekirdekli İşlemcilerde Yük Dağılımı Optimizasyonu
 
 [cite_start]Bu çalışma, Gazi Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği Bölümü BMT 317 Algoritmalar dersi dönemi sonu projesi olarak geliştirilmiştir[cite: 6, 7, 8, 9, 10]. [cite_start]Proje, çok çekirdekli sistemlerde (Multi-core) iş parçacıklarının (thread) çekirdekler arasında verimli şekilde dağıtılmasını hedefleyen farklı zamanlama stratejilerinin simülasyonunu ve analizini içerir[cite: 16, 23].
@@ -54,3 +55,7 @@ cd build
 cmake ..
 make
 ./core_thread_relation
+=======
+# core-thread-relation
+Çok çekirdekli işlemcilerde iş yüklerinin dengelenmesini sağlamak için kullanılan algoritmaları ve verimliliklerini ölçmek için C kodlama dilinde simülasyon
+>>>>>>> b97b428321fbfa66b60d4f3603f6e19d83c8a6d7
